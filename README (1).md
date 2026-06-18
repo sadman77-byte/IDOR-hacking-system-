@@ -30,7 +30,7 @@ https://www.oreilly.com/videos/introduction-to-cybersecurity/390420BCRV-XXXX/
 (Last part was redacted)
 
 ### 2. URL Manipulation (IDOR Exploitation)
-- Modified the resource ID at the end of the URL.
+- Modified the resource ID (giving any 4digit random numbers) at the end of the URL.
 - Guessed/completed the correct ID.
 - Successfully accessed the full premium course without subscription.
 
