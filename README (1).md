@@ -20,7 +20,7 @@ This repository documents the **manual discovery and exploitation of an Insecure
 
 ## Step-by-Step Process
 
-### 1. Initial Shared Link
+### 1. First of all, make a free trial account for 10 days. After 10 days, my free trial has ended and provide Initial Shared Link
 Received a partial link from a chat:
 
 ```
@@ -44,7 +44,7 @@ https://www.oreilly.com/videos/introduction-to-cybersecurity/390420BCRV-XXXX/
 - Course progress and chapter list visible
 - Multiple modules accessible (Physical Security, Securing Operating Systems, etc.)
 
-*(Screenshots attached in the repository showing the 404 error, successful course page, video transcript, and chapter list)*
+*(Processing in the repository showing the 404 error and red font headline "searching",  successful course page, video transcript, and chapter list)*
 
 ---
 
